@@ -180,3 +180,8 @@ High-speed inference even on CPU
 Professional-grade GUI
 
 Correct annotation and counting
+
+ ## MY OUTPUT
+
+
+<img src="assets/screenshot 2025-11-14 140930.png" width="500"/>
