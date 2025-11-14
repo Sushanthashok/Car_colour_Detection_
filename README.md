@@ -183,5 +183,6 @@ Professional-grade GUI
 
 Correct annotation and counting
 
-![My Output](assets/car.png)
+## My Output
 
+<img src="assets/car.png" width="500"/>
