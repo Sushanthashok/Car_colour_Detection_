@@ -1,0 +1,7 @@
+path: car_dataset
+train: train
+val: valid
+
+names:
+  0: Car
+  1: Truck
