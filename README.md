@@ -186,4 +186,4 @@ Correct annotation and counting
  ## MY OUTPUT
 
 
-<img src="assets/car" width="500"/>
+<img src="assets/car.png" width="500"/>
