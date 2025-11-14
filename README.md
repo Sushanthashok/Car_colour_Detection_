@@ -183,7 +183,5 @@ Professional-grade GUI
 
 Correct annotation and counting
 
- ## MY OUTPUT
+![My Output](assets/car.png)
 
-
-<img src="assets/car.png" width="500"/>
