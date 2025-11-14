@@ -1,6 +1,8 @@
 ### 🚦 CAR COLOUR DETECTION & PEOPLE COUNTER
 
+
 A Streamlit-based computer vision application for detecting cars, predicting their colour (blue / not-blue), and counting people in traffic scenes.
+
 
 ##📌 1. Problem Statement
 
@@ -180,3 +182,6 @@ High-speed inference even on CPU
 Professional-grade GUI
 
 Correct annotation and counting
+
+![My Output](assets/car.png)
+
